@@ -1,0 +1,10 @@
+scopeconfig:
+  - scope: node
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 1fe383f11b37f4e7b956b1a530470c48a5cc4e21cd242ac25d00e6c114a70951
+- filename: src/components/Todos.js
+  checksum: 4ac180a9be734c407013d72699833a075dade812631d58a89d364dabf0d7a858
+- filename: src/tests/todo.spec.js
+  checksum: cbf797faf27fbb711045068ff12bdf4f81c5e678404366ab4075a27a13b77f34
+version: ""
